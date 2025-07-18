@@ -1,4 +1,4 @@
-# GuruCool A AI-Study-Buddy
+# GuruCool An AI-Study-Buddy
 A Cool Teacher
 A fun, interactive, and personalized AI learning companion for middle and high school students.
 Powered by GPT-4o and built for both web and mobile.
